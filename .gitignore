@@ -1,0 +1,5 @@
+browserify-cache.json
+node_modules
+*.swo
+*.swp
+bundle.js
